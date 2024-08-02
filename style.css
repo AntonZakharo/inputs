@@ -53,6 +53,7 @@ body {
 .text {
     font-size: 16px;
     line-height: 150%;
+    font-family: 'Verdana', sans-serif;
 }
 
 .content__footer {
